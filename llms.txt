@@ -1,0 +1,11 @@
+# Yao App Launch Room
+
+Yao App Launch Room is a SaaS workspace for Yao.
+
+Website: https://yaolaunchroom.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Yao
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
